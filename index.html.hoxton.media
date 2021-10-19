@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Static Template</title>
+  </head>
+
+  <h1>
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style> {
+     * font-family: 'mont-serrat'
+    }
+    <title>Hoxton Media</title>
+    
+  </head>
+  <body>
+    <header>
+      <span class="logo">Hoxton Media</span>
+      <nav>
+        <ul class="nav-links">
+          <li><a href=#>home</a></li>
+          <li><a href="aboutus.html">About Us</a></li>
+          <li><a href="#">Contact Us</a></li>
+          </ul>
+          </nav>
+          </header>
+          <section class="social-media"
+          <h1>POST AUTOMATICALLY TO</h1>
+          <a href="www.youtube.com"><img src="youtube.PNG" alt="youtube picture"></a>
+          <a href="www.instagram.com"><img src="instagram.PNG" alt="instagram picture"></a>
+          <a href="www.tiktok.com"><img src="tiktok.png" alt="tiktok picture"></a>
+          </section>
+          <section class="main-content">
+            <h1>SOCIAL WITHOUT THE FUSS!</H1>
+              <P>With our service, you'll never have to worry about managing your social media accounts separately anymore.</p>
+                <br/>
+                <p>Just sign up, describe your content and our smart machine learning service will generate the content and deliver it to any social media platform.</p>
+                <br/>
+                <p>Subscribe now, get your first month free and saving of up to <b>50%</b>!</p>
+                <button class="subscribe">Subscribe</button>
+                </section>
+          </body>
+  </html>
